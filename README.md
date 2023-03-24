@@ -33,8 +33,8 @@ Want some support on the challenge? [Join our Slack community](https://www.front
 
 ### Links
 
-- [Solution](https://www.frontendmentor.io/solutions/tip-calculator-solution-nngrOoxPHe)
-- [Live Site](https://aimarbustamante.github.io/tip-calculator-app/)
+- [Solution](https://www.frontendmentor.io/solutions/insure-landing-page-Ukus9UKxPl)
+- [Live Site](https://aimarbustamante.github.io/Insure-landing-page/)
 
 ## Color Reference
 
